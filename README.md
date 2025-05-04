@@ -2,6 +2,11 @@
 
 A Simple custom-built MCP server that provides GitHub integration features through various tools and resources.
 
+
+## Demo
+
+![Demo](https://github.com/user-attachments/assets/82f20fa7-ebfb-484c-b60f-fbec9193053e)
+
 ## Features
 
 - Get user information and profile details
