@@ -5,7 +5,7 @@ A Simple custom-built MCP server that provides GitHub integration features throu
 
 ## Demo
 
-![Demo](https://github.com/user-attachments/assets/63b92a95-56f3-4290-9c73-acc4ad407246)
+https://github.com/user-attachments/assets/63b92a95-56f3-4290-9c73-acc4ad407246
 
 ## Features
 
